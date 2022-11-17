@@ -1,2 +1,2 @@
 # BootCampPurpleBeard
-pre=course
+pre-course
